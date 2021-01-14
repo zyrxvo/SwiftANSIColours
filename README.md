@@ -21,7 +21,7 @@ import PackageDescription
 let package = Package(
     name: "ExampleExecutablePackage",
     dependencies: [
-        .package(url: "/absolute/or/relative/path/to/SwiftANSIColor", from: "0.0.1")
+        .package(url: "/absolute/or/relative/path/to/SwiftANSIColor", from: "0.0.2")
     ]
 )
 ```
